@@ -3,8 +3,8 @@ A web movie trailer preview program
 
 # Prerequisites
 
-Running version of Python 2.7.XX (https://www.python.org/downloads/release/python-2715/)
-Internet capabilities to run the html code locally
+1. Running version of Python 2.7.XX (https://www.python.org/downloads/release/python-2715/)
+2. Internet capabilities to run the html code locally
 
 # Installing
 
