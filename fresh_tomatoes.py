@@ -18,7 +18,7 @@ main_page_head = '''
             padding-top: 80px;
         }
         #trailer .modal-dialog {
-            margin-top: 200px;
+            margin-top: 250px;
             width: 640px;
             height: 480px;
         }
